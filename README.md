@@ -2,12 +2,12 @@
   <tr>
     <td width="70%" align="center">
       <h1>ANTHONY PATARON</h1>
-      <p><b>tu rol o especialidad aquí</b></p>
+      <p><b>Estudiante de Ingeniería de Software </b></p>
       <br>
       <a href="https://linkedin.com/in/tu-usuario" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
       </a>
-      <a href="mailto:tu-correo@gmail.com">
+      <a href="mailto:tu-anthonypataron0@gmail.com">
         <img src="https://img.shields.io/badge/email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
       </a>
       <br><br>
