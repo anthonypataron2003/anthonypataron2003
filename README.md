@@ -32,3 +32,4 @@
   <img src="https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="python" />
   <img src="https://img.shields.io/badge/sql_server-cc292b?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="sql server" />
 </p>
+<p align="center"><i>"El código limpio no se escribe por suerte, se construye con constancia y pasión."</i></p>
