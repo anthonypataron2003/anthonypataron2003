@@ -23,7 +23,7 @@
 
 <br>
 
-<h3 align="center">Tecnologías que domino</h3>
+<h3 align="center">Tecnologías Que Domino</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
