@@ -1,7 +1,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="65%" align="center">
-      <h2>anthony pataron</h2>
+      <h2>ANTHONY PATARON</h2>
       <p>estudiante de ingeniería de software | desarrollador de software</p>
       <br>
       <a href="https://linkedin.com/in/tu_usuario_linkedin" target="_blank">
@@ -10,8 +10,6 @@
       <a href="mailto:anthonypataron0@gmail.com">
         <img src="https://img.shields.io/badge/email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
       </a>
-      <br><br>
-      <img src="https://komarev.com/ghpvc/?username=tu_usuario_github&style=flat-square&color=blueviolet" alt="profile views" />
     </td>
     <td width="35%" align="center">
       <img src="animal.gif" width="180px" alt="pixel art animal" />
