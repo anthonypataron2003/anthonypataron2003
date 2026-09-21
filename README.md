@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-## acerca de mí
+## Acerca de mí
 
 > estudiante de ingeniería de software en la universidad estatal de milagro (unemi), enfocado en desarrollo de software, backend y arquitecturas web.
 
