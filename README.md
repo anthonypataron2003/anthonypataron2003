@@ -7,7 +7,7 @@
       <a href="https://linkedin.com/in/tu_usuario_linkedin" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
       </a>
-      <a href="mailto:tu_correo@gmail.com">
+      <a href="mailto:anthonypataron0@gmail.com">
         <img src="https://img.shields.io/badge/email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
       </a>
       <br><br>
