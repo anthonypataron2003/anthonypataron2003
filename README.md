@@ -2,7 +2,7 @@
   <tr>
     <td width="65%" align="center">
       <h2>ANTHONY PATARON</h2>
-      <p>estudiante de ingeniería de software | desarrollador de software</p>
+      <p>Estudiante de ingeniería de software | desarrollador de software</p>
       <br>
       <a href="https://linkedin.com/in/tu_usuario_linkedin" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
