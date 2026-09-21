@@ -14,15 +14,15 @@
       <img src="https://komarev.com/ghpvc/?username=tu_usuario_github&style=flat-square&color=blueviolet" alt="profile views" />
     </td>
     <td width="35%" align="center">
-      <img src="https://raw.githubusercontent.com/jpincaym7/jpincaym7/main/pachirisu.gif" width="180px" alt="pixel art animal" />
+      <img src="animal.gif" width="180px" alt="pixel art animal" />
     </td>
   </tr>
 </table>
 
-## Acerca de mí
+## acerca de mí
 
 > estudiante de ingeniería de software en la universidad estatal de milagro (unemi), enfocado en desarrollo de software, backend y arquitecturas web.
 
 <br>
 
-<h3 align="center">pila tecnológica</h3>.
+<h3 align="center">pila tecnológica</h3>
