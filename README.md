@@ -1,8 +1,8 @@
 <table align="center" width="100%">
   <tr>
     <td width="65%" align="center">
-      <h2>anthony pataron</h2>
-      <p>estudiante de ingeniería de software | desarrollador de software</p>
+      <h2>ANTHONY PATARON</h2>
+      <p>Estudiante de ingeniería de software | desarrollador de software</p>
       <br>
       <a href="https://linkedin.com/in/tu_usuario_linkedin" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
@@ -17,13 +17,13 @@
   </tr>
 </table>
 
-## acerca de mí
+## Acerca de mí
 
-> estudiante de ingeniería de software en la universidad estatal de milagro (unemi), enfocado en desarrollo de software, backend y arquitecturas web.
+> Estudiante de ingeniería de software en la universidad estatal de milagro (unemi), enfocado en desarrollo de software, backend y arquitecturas web.
 
 <br>
 
-<h3 align="center">tecnologías que domino</h3>
+<h3 align="center">Tecnologías que domino</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
