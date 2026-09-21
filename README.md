@@ -1,16 +1,23 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td width="70%" align="center">
+      <h1>tu nombre aquí</h1>
+      <p><b>tu rol o especialidad aquí</b></p>
+      <br>
+      <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+      </a>
+      <a href="mailto:tu-correo@gmail.com">
+        <img src="https://img.shields.io/badge/email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+      </a>
+      <br><br>
+      <img src="https://komarev.com/ghpvc/?username=tu-usuario&style=flat-square" alt="profile views" />
+    </td>
+    <td width="30%" align="center">
+      <img src="url_de_tu_gif_pixel_art.gif" width="160px" alt="pixel art" />
+    </td>
+  </tr>
+</table>
 
-<!--
-**anthonypataron2003/anthonypataron2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## about me
+describe aquí tu perfil, estudios o tecnologías que dominas.
