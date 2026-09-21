@@ -1,23 +1,28 @@
-<table>
+<table align="center" width="100%">
   <tr>
-    <td width="70%" align="center">
-      <h1>ANTHONY PATARON</h1>
-      <p><b>Estudiante de Ingeniería de Software </b></p>
+    <td width="65%" align="center">
+      <h2>anthony pataron</h2>
+      <p>estudiante de ingeniería de software | desarrollador de software</p>
       <br>
-      <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+      <a href="https://linkedin.com/in/tu_usuario_linkedin" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
       </a>
-      <a href="mailto:tu-anthonypataron0@gmail.com">
+      <a href="mailto:tu_correo@gmail.com">
         <img src="https://img.shields.io/badge/email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
       </a>
       <br><br>
-      <img src="https://komarev.com/ghpvc/?username=tu-usuario&style=flat-square" alt="profile views" />
+      <img src="https://komarev.com/ghpvc/?username=tu_usuario_github&style=flat-square&color=blueviolet" alt="profile views" />
     </td>
-    <td width="30%" align="center">
-      <img src="url_de_tu_gif_pixel_art.gif" width="160px" alt="pixel art" />
+    <td width="35%" align="center">
+      <img src="https://raw.githubusercontent.com/jpincaym7/jpincaym7/main/pachirisu.gif" width="180px" alt="pixel art animal" />
     </td>
   </tr>
 </table>
 
-## about me
-describe aquí tu perfil, estudios o tecnologías que dominas.
+## acerca de mí
+
+> estudiante de ingeniería de software en la universidad estatal de milagro (unemi), enfocado en desarrollo de software, backend y arquitecturas web.
+
+<br>
+
+<h3 align="center">pila tecnológica</h3>.
