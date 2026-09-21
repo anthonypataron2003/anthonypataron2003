@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="70%" align="center">
-      <h1>tu nombre aquí</h1>
+      <h1>ANTHONY PATARON</h1>
       <p><b>tu rol o especialidad aquí</b></p>
       <br>
       <a href="https://linkedin.com/in/tu-usuario" target="_blank">
