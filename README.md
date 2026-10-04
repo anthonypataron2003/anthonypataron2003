@@ -25,7 +25,7 @@
 
 <h3 align="center">Tecnologías Que Domino</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,ts,react,nextjs,nodejs,php,laravel,cs,dotnet,mysql,postgres,supabase,git,github,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,mysql,postgres,git,github,vscode,aws" />
 </p>
 
 <p align="center"><i>"El código limpio no se escribe por suerte, se construye con constancia y pasión."</i></p>
