@@ -29,3 +29,10 @@
 </p>
 
 <p align="center"><i>"El código limpio no se escribe por suerte, se construye con constancia y pasión."</i></p>
+
+## 📊 Estadísticas de Lenguajes
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony2003&layout=donut&theme=dark&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony2003&layout=donut&theme=dark&hide_border=false&langs_count=5" height="180"/>
+</p>
