@@ -33,5 +33,5 @@
 ## 📊 Lenguajes más utilizados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony2003&layout=donut&theme=dark&langs_count=5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonypataron2003&layout=donut&theme=dark&langs_count=5" />
 </p>
