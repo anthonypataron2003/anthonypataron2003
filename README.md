@@ -24,17 +24,6 @@
 <br>
 
 <h3 align="center">Tecnologías Que Domino</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-  <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-  <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-  <img src="https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/sql_server-cc292b?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="sql server" />
-</p>
-
-## 🛠️ Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,html,css,js,ts,react,nextjs,nodejs,php,laravel,cs,dotnet,mysql,postgres,supabase,git,github,vscode,aws" />
 </p>
